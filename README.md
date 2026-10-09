@@ -1,25 +1,30 @@
-# Atividade GitHub 1
+# Segurança e Gerência de Configuração
 
-## Sobre
+## Descrição
 
-Site desenvolvido para praticar HTML, CSS, JavaScript e Git.
+Projeto web sobre Transformação Digital, desenvolvido com HTML, CSS e JavaScript.
 
-## Arquivos
+## Objetivo
 
-- `index.html`: estrutura do site.
-- `style.css`: aparência e organização visual.
-- `script.js`: interação com o botão.
+Apresentar informações sobre transformação digital em uma página web organizada e interativa.
+
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Estrutura do projeto
+
+- `index.html`: estrutura da página.
+- `style.css`: estilos e aparência.
+- `script.js`: funcionalidades e interações.
 - `img/`: imagens utilizadas no site.
-- `erro.txt`: arquivo criado para demonstrar operações com arquivos.
 
 ## Como executar
 
-Abra o arquivo `index.html` em um navegador.
+Baixe ou clone o repositório e abra o arquivo `index.html` em um navegador.
 
-## Tecnologias
+## Controle de versão
 
-HTML, CSS, JavaScript e Git.
-
-## Objetivo acadêmico
-
-Este projeto demonstra a organização de arquivos e o uso de commits com Git.
+O projeto é versionado com Git e publicado no GitHub.
