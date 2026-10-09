@@ -1,1 +1,2 @@
 Arquivo criado para a atividade prática de GitHub.
+Alteracao registrada durante a atividade de controle de versao.
