@@ -70,3 +70,7 @@ footer {
   background: #23113d;
   color: white;
 }
+
+.destaque {
+  border-left: 5px solid #204b70;
+}
