@@ -2,5 +2,5 @@ const botao = document.getElementById("botao");
 const mensagem = document.getElementById("mensagem");
 
 botao.addEventListener("click", function () {
-  mensagem.textContent = "Obrigado por visitar nosso projeto!";
+  mensagem.textContent = "Bem-vindo ao nosso projeto de tecnologia!";
 });
